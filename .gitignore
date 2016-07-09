@@ -1,6 +1,0 @@
-/develop/*
-/bower_components/*
-/node_modules/
-/test/*
-/tests/*
-gruntfile.js
